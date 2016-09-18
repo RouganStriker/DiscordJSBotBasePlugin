@@ -1,0 +1,14 @@
+{
+  "name": "discord_js_bot_base_plugin",
+  "version": "0.0.1",
+  "description": "Base Plugin for Discord JS Bot",
+  "dependencies": {
+    "parse-function": "^2.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kelvin Chan",
+  "license": "MIT"
+}
